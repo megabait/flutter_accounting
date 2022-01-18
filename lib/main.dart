@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
+//Привет - я работаю на ios))))
 void main() {
   runApp(
        MaterialApp(
@@ -13,7 +14,7 @@ void main() {
                       height: 200,
                       child: ListWidget()
                   )*/
-                  ListWidget()
+                  //ListWidget()
                 ],
               )
           )
