@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-//Привет - я работаю на ios)))) dfdfg
+//Привет - я работаю на ios)))) dfdfgsdffs
 void main() {
   runApp(
        MaterialApp(
